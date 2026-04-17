@@ -52,7 +52,7 @@ namespace ConsoleApp1
                 }
                 sumaAcc += (double)poprawnie / fold.test.Length * 100;
             }
-            Console.WriteLine($"Srednia Accuracy: {sumaAcc / folds.Count:F2}%");
+            Console.WriteLine($"Accuracy: {sumaAcc / folds.Count:F2}%");
         }
     }
 }
