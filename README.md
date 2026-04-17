@@ -24,3 +24,7 @@ This project uses the Iris Flower Dataset (found in bezdekIris.data). It classif
 * Sepal width
 * Petal length
 * Petal width
+
+
+How run the code:
+Git clone -> go to right folder -> print "make run" or "dotnet run"
